@@ -86,6 +86,17 @@ The dataset includes the following features:
 This model is a solid baseline, especially for low-severity accident detection. However, to enhance its effectiveness across all classes, future work should focus on addressing class imbalance, tuning the model, and exploring more powerful algorithms.
 
 ---
+## Acknowledgements
+
+- Dataset: Custom CSV file generated with the help of ChatGPT for educational purposes.We modified everything later.
+- Libraries used:
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - jupyter
+
 
 ## 📦 Requirements
 
