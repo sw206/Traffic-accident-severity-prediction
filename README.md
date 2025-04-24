@@ -118,6 +118,8 @@ SCIPYSTATS | scipy.stats
 
 THANKYOU
 
+N/B : AMINAH BASHIR had technical issues so she couldnt join as a  collaborator but was part of the project
+
 
 
 
