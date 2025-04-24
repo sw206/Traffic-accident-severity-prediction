@@ -1,14 +1,14 @@
-TRAFFIC ACCIDENT SEVERITY PREDICTION MODEL
+# Accident Severity Prediction Model
 
-GROUP 8/CONTRIBUTORS
+## 👥 Group 8 Members
 
-AMINA BASHIR – 674220   -  amina1460
+- **Amina Bashir** – 674220   -amina1460
+- **Nicholas Bahati** – 672949  -nicholasb777
+- **Ikigu Elizabeth** – 674201  -lizwanjikuu
+- **Sylvia Macharia** – 673922  -sw206
 
-NICHOLAS BAHATI – 672949    -nicholasb777
+---
 
-IKIGU ELIZABETH – 674201      -lizwanjikuu
-
-SYLVIA MACHARIA – 673922      - sw206
 
 # Accident Severity Prediction Model
 
